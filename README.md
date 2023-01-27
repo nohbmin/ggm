@@ -13,6 +13,6 @@ git
 요즘엔 라오루 모드 만드는데 꽃혀있는데 역전모드 도시악몽 챕터 2월 10일 출시니까 많은관심 부탁드립니다.
 
 <img
-src="https://steamuserimages-a.akamaihd.net/ugc/5124565030459207382/B5E3930FFEAF24997CC436BFBB120FB94783DFAA/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width=300>
+src="https://steamuserimages-a.akamaihd.net/ugc/5124565030459207382/B5E3930FFEAF24997CC436BFBB120FB94783DFAA/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width=1000>
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=2906573873.
